@@ -1,0 +1,12 @@
+\contentsline {chapter}{Abstract}{1}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Lissajous Figures}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Set Up}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}CRO Graphs}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}One}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Two}{7}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Three}{10}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Four}{12}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Five}{16}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Six}{19}{subsection.1.2.6}%
+\contentsline {chapter}{\numberline {2}One Time Event Capture}{22}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Set Up}{22}{section.2.1}%
